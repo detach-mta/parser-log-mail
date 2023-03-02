@@ -7,7 +7,7 @@ To anonymize email logs
 ```sh
 git clone https://github.com/detach-mta/parser-log-mail
 cd parser-log-mail
-python parser-log-mail.py
+python script.py log_file.txt log_file.csv
 ```
 
 ## Results
